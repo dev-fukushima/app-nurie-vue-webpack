@@ -3,7 +3,7 @@
   <div class="app is-step1">
   <header class="headerArea">
       <h1>
-        <img src="img/thankyou_img01.png" alt="Thank you 5th Anniversory Sinkyone Creative">
+        <img src="img/thankyou_img01.png" alt="">
       </h1>
       <div class="txArea Area-01 fireworks">
 
